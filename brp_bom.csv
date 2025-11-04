@@ -1,0 +1,39 @@
+Product,HTS_Number,Description,Country_Shipped,Country_Origin,US_Content,Item_Price,Column1,Quantity,Total_Item_Price,Logistic_Costs_Per_Item
+Axle (demo),3917.29.00.90,"Tubes, pipes & hoses, rigid, of plastics – other plastics, nesoi, ?200mm in length.",MX,MX,0%, $0.36 , $-   ,1, $0.36 , $0.90 
+Axle (demo),3917.32.00.50,"Tubes, pipes & hoses, not rigid, not reinforced nor otherwise combined with other materials, without fittings.",CN,CN,0%, $0.32 , $-   ,1, $0.32 , $1.85 
+Axle (demo),3926.90.85.00,Articles of plastics: Other articles for other uses.,KR,KR,0%, $0.01 , $-   ,10, $0.10 , $1.85 
+Axle (demo),3926.90.99.89,"Articles of plastics: Other, nesoi.",DE,DE,0%, $1.45 , $-   ,3, $4.35 , $1.60 
+Axle (demo),4009.12.00.20,"Vulcanised rubber, tubes, pipes & hoses, reinforced or combined with textile materials.",US,US,10%, $3.53 , $0.35 ,2, $7.06 , $0.60 
+Axle (demo),4009.32.00.50,"Vulcanised rubber, sheets, strips & plates, reinforced or combined with textile materials.",CZ,CZ,0%, $8.73 , $-   ,2, $17.46 , $1.60 
+Axle (demo),4009.42.00.50,"Vulcanised rubber, sheets, strips & plates, not reinforced nor combined with textile materials.",DE,DE,0%, $3.87 , $-   ,1, $3.87 , $1.60 
+Axle (demo),4016.99.15.00,"Articles of vulcanised rubber, other than hard rubber: For machines or mechanical appliances.",US,DE,0%, $0.20 , $-   ,2, $0.40 , $0.60 
+Axle (demo),4016.99.30.00,"Articles of vulcanised rubber, other than hard rubber: Other articles",MX,MX,0%, $11.46 , $-   ,2, $22.92 , $0.90 
+Axle (demo),4016.99.55.00,"Articles of vulcanised rubber, other than hard rubber: Other articles, nesoi.",IN,IN,10%, $2.04 , $0.20 ,3, $6.12 , $1.95 
+Axle (demo),7307.92.90.00,"Tube or pipe fittings, of iron or steel: Other tubes and pipes fittings, nesoi.",NL,NL,0%, $1.21 , $-   ,1, $1.21 , $1.60 
+Axle (demo),7318.15.20.65,"Bolts of iron or steel with hexagonal heads, threaded diameter ?6mm, nesoi.",US,US,20%, $0.17 , $0.03 ,6, $1.02 , $0.60 
+Axle (demo),7318.15.20.95,"Bolts of iron or steel with hexagonal heads, threaded diameter ?6mm, other, nesoi.",NL,NL,0%, $0.74 , $-   ,1, $0.74 , $1.60 
+Axle (demo),7318.15.80.45,"Screws, bolts, nuts, etc., of iron or steel, other articles, nesoi.",DE,DE,0%, $0.27 , $-   ,5, $1.35 , $1.60 
+Axle (demo),7318.15.80.55,"Screws, bolts, nuts, etc., of iron or steel, other articles, nesoi.",DE,DE,0%, $0.22 , $-   ,1, $0.22 , $1.60 
+Axle (demo),7318.15.80.69,"Screws, bolts, nuts, etc., of iron or steel, other articles, nesoi ",MX,MX,0%, $0.22 , $-   ,84, $18.48 , $0.90 
+Axle (demo),7318.15.80.85,"Screws, bolts, nuts, etc., of iron or steel, other articles, nesoi ",DE,DE,0%, $0.04 , $-   ,12, $0.48 , $1.60 
+Axle (demo),7318.16.00.85,"Nuts of iron or steel, effective diameter >6mm, other articles, nesoi ",DE,DE,0%, $1.25 , $-   ,43, $53.75 , $1.60 
+Axle (demo),7318.21.00.90,"Threaded articles of iron or steel, nesoi ",US,DE,5%, $0.11 , $0.01 ,2, $0.22 , $0.60 
+Axle (demo),7318.22.00.00,"Washers (including spring washers) of iron or steel, nesoi",DE,DE,0%, $0.11 , $-   ,13, $1.43 , $1.60 
+Axle (demo),7318.23.00.00,"Other threaded articles of iron or steel, nesoi ",DE,DE,0%, $0.11 , $-   ,1, $0.11 , $1.60 
+Axle (demo),7326.90.86.88,"Other articles of iron or steel: Other, nesoi",DE,DE,0%, $0.04 , $-   ,1, $0.04 , $1.60 
+Axle (demo),8302.30.30.60,"Flexible tubing of base metal for furniture or other articles, nesoi",DE,DE,0%, $1.14 , $-   ,13, $14.82 , $1.60 
+Axle (demo),8544.30.00.00,"Ignition wiring sets and other wiring sets for vehicles, aircraft or ships ",MX,MX,0%, $5.85 , $-   ,3, $17.55 , $0.90 
+Axle (demo),8708.30.50.30,Road wheels and parts for motor vehicles of transport of persons,DE,DE,10%," $1,139.37 ", $113.94 ,8," $9,114.96 ", $1.60 
+Axle (demo),8708.30.50.90,Road wheels and parts for motor vehicles of transport of persons ,MX,CN,0%, $112.35 , $-   ,28," $3,145.80 ", $0.90 
+Axle (demo),8708.50.51.10,Drive axles with differential for motor vehicles of transport of persons,US,US,10%, $284.01 , $28.40 ,3, $852.03 , $0.60 
+Axle (demo),8708.50.85.00,Drive axles with differential for motor vehicles of transport of persons ,MX,MX,10%, $56.85 , $5.69 ,4, $227.40 , $0.90 
+Axle (demo),8708.50.89.00,Drive axles with differential for motor vehicles of transport of persons,PL,PL,5%," $1,248.88 ", $62.44 ,1," $1,248.88 ", $1.60 
+Axle (demo),8708.80.16.00,"Steering wheels, steering columns & steering boxes for motor vehicles",CA,CA,0%, $20.70 , $-   ,1, $20.70 , $1.00 
+Axle (demo),8708.80.65.90,"Steering wheels, steering columns & joints, shafts for motor vehicles, nesoi ",MX,MX,10%, $10.17 , $1.02 ,30, $305.10 , $0.90 
+Axle (demo),8708.94.50.00,"Suspension systems for motor vehicles; parts thereof, nesoi ",MX,MX,10%, $277.39 , $27.74 ,2, $554.78 , $0.90 
+Axle (demo),8708.94.75.10,"Suspension systems or parts for vehicles of headings 8701?8705, nesoi",MX,MX,10%, $20.55 , $2.06 ,1, $20.55 , $0.90 
+Axle (demo),8708.94.75.50,"Suspension systems or parts for vehicles of headings 8701?8705, nesoi ",MX,MX,10%, $15.00 , $1.50 ,7, $105.00 , $0.90 
+Axle (demo),8708.99.55.00,"Parts & accessories for motor vehicles, nesoi ",CZ,CZ,5%, $6.05 , $0.30 ,5, $30.25 , $1.60 
+Axle (demo),8708.99.58.00,Parts & accessories for motor vehicles ,US,MX,5%, $27.57 , $1.38 ,6, $165.42 , $0.60 
+Axle (demo),8708.99.68.90,"Parts & accessories for motor vehicles, nesoi",CN,CN,0%, $50.41 , $-   ,2, $100.82 , $1.85 
+Axle (demo),8708.99.81.80,"Parts & accessories for motor vehicles, nesoi",IT,IT,0%, $2.16 , $-   ,3, $6.48 , $1.60 
